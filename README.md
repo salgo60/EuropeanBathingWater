@@ -9,7 +9,7 @@ In Wikidata we now have property **Eionet bathingWaterIdentifie** [Property:P961
 
 ![](https://github.com/salgo60/Svenskabadplatser/raw/main/img/Eionet%20bathidentifier%20in%20Wikidata.png?raw=true)
 
-* Wikidata [Q107096245](https://www.wikidata.org/wiki/Q107096245)
+* Wikidata [Q107096245](https://www.wikidata.org/wiki/Q107096245) - Project European Bath Waters
 
 ## Wikidata
 * [Properties used on object with Eionet bathingWaterIdentifier](https://w.wiki/3S2Y) 

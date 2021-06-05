@@ -5,7 +5,7 @@
 In Wikidata we now have property **Eionet bathingWaterIdentifier** [Property:P9616](https://www.wikidata.org/wiki/Property:P9616). The goal is to see if we can do the same as we have done with [Swedish Bathwaters](https://github.com/salgo60/Svenskabadplatser)
 
 * Wikidata [SPARQL Map](https://w.wiki/3RZx)    
-* **[Data quality Bath water Europe Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_European_Bath_Waters/Coverage)** 3090 badplatser    
+* **[Data quality Bath water Europe Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_European_Bath_Waters/Coverage)** 3090 batwaters out of approx 26 164 compare https://bathingwaters.eu/  
 
 * [Video](https://youtu.be/5Isx4Ngi6Bw)
 

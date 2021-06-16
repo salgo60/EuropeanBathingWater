@@ -1,7 +1,9 @@
 # EuropeanBathingWater
 
 * Wikidata project area [WikiProject European Bath Waters](https://www.wikidata.org/wiki/Wikidata:WikiProject_European_Bath_Waters)
-* see also [Swedish project](https://github.com/salgo60/Svenskabadplatser)
+  * see also [Swedish project](https://github.com/salgo60/Svenskabadplatser)
+* EEA database https://discodata.eea.europa.eu and the the WISE_BWD database
+  * map service [water.discomap.eea.europa.eu/arcgis/rest/services/BathingWater](https://water.discomap.eea.europa.eu/arcgis/rest/services/BathingWater)
 
 In Wikidata we now have property **Eionet bathingWaterIdentifier** [Property:P9616](https://www.wikidata.org/wiki/Property:P9616). The goal is to see if we can do the same as we have done with [Swedish Bathwaters](https://github.com/salgo60/Svenskabadplatser)
 

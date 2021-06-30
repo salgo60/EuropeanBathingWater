@@ -18,4 +18,4 @@ In Wikidata we now have property **Eionet bathingWaterIdentifier** [Property:P96
 
 ## Wikidata
 * [Properties used on object with Eionet bathingWaterIdentifier](https://w.wiki/3S2Y) 
-* [Countries having Eionet bathingWaterIdentifier](https://w.wiki/3S3s) / |list](https://w.wiki/3S3w)
+* [Countries having Eionet bathingWaterIdentifier](https://w.wiki/3S3s) / [list](https://w.wiki/3S3w)
